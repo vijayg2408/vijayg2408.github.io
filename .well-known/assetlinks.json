@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fidodemo",
+      "sha256_cert_fingerprints": [
+        "2A:30:A2:93:DA:2B:AC:83:2F:6A:17:03:F8:C3:96:82:E7:DC:02:40:47:08:B0:44:1C:41:68:9F:81:CB:9C:BA"
+      ]
+    }
+  }
+]
